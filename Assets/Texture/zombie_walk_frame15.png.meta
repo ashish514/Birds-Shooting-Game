@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: d25864f17238e2741b249bd76db4c71d
+timeCreated: 1625055958
+licenseType: Free
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: zombie_walk_frame15
+  externalObjects: {}
+  usedFileIDs: []
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 248
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 90
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zombie_walk_frame15
+      rect:
+        serializedVersion: 2
+        x: 15.07612
+        y: 0
+        width: 175.881
+        height: 238.9239
+      alignment: 9
+      pivot: {x: 0.5681336, y: 0.5189937}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.0166, y: -119.4619}
+        - {x: -75.0166, y: -119.4619}
+        - {x: -69.0166, y: -104.4619}
+        - {x: -60.0166, y: -82.46194}
+        - {x: -42.01661, y: -63.46194}
+        - {x: -48.0166, y: -7.461946}
+        - {x: -53.0166, y: -41.46195}
+        - {x: -84.01661, y: -54.46194}
+        - {x: -88.01661, y: -51.46195}
+        - {x: -88.01661, y: -0.4619446}
+        - {x: -70.0166, y: 116.5381}
+        - {x: -59.0166, y: 119.5381}
+        - {x: 32.9834, y: 119.5381}
+        - {x: 87.9834, y: 2.538055}
+        - {x: 87.9834, y: -79.46194}
+        - {x: 70.9834, y: -119.4619}
+        - {x: 3.983398, y: -119.4619}
+        - {x: -13.0166, y: -83.46194}
+        - {x: -28.0166, y: -107.462}
+        - {x: -24.0166, y: -117.4619}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132d2c5a0f8144109146876ad02b74d9
+      internalID: 21300000
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices:
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag:
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData:
+  assetBundleName:
+  assetBundleVariant:
